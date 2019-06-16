@@ -3,8 +3,12 @@ layout: project
 title: 'Colony Cracker'
 date: 1 August 2019
 image: /assets/img/projects/colony.JPG
-screenshot: /assets/img/projects/colony.JPG
-
+screenshot: 
+  src:       /assets/img/projects/colony.JPG
+  srcset:
+    1920w:   /assets/img/projects/colony.JPG
+    960w:    /assets/img/projects/colony.JPG
+    480w:    /assets/img/projects/colony.JPG
 links:
   - title: Website
     url: https://eost.re/colony-cracker/
