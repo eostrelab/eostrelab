@@ -2,8 +2,8 @@
 layout: project
 title: 'Colony Cracker'
 date: 1 August 2019
-image: /assets/img/projects/colony.jpg
-screenshot: /assets/img/projects/colony.jpg
+image: /assets/img/projects/colony.JPG
+screenshot: /assets/img/projects/colony.JPG
 
 links:
   - title: Website
