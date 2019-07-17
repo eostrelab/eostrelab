@@ -10,7 +10,7 @@ Welcome to the home of EOSTRE. EOSTRE is part experimental laboratory in the clo
 The idea behind EOSTRE is to try and run a laboratory the following way:
 
 <ul>
-<li>Business administration and registration are provided by <a href="https://www.xolo.io/"><span style="color: #082471;">Xolo</span></a>, with banking handled by <a href="https://transferwise.com/"><span style="color: #00c6ff;">TransferWise</span></a>,</li>
+<li>Business administration and registration are provided by <a href="https://www.xolo.io/"><span style="color: #F96156;">Xolo</span></a>, with banking handled by <a href="https://transferwise.com/"><span style="color: #00c6ff;">TransferWise</span></a>,</li>
 <li>Business Insurance will be covered through <a href="https://withlayr.com/"><span style="color: #00ff8c;">Layr</span></a>, and Health Insurance will be covered through <a href="https://www.worldnomads.ca/"><span style="color: #ff9c00;">World Nomads</span></a>,</li>
 <li>Genetic code optimization is completed with <a href="https://www.atum.bio/resources/tools/gene-designer"><span style="color: #d0343b;">Gene Designer</span></a>, genetic networks design with <a href="https://github.com/CIDARLAB/eugene-v2.0"><span style="color: #ef7226;">Eu</span><span style="color: #676767;">gene</span></a>, <a href="https://github.com/CIDARLAB/clotho3"><span style="color: #676767;">Clotho</span></a>, and <a href="http://www.async.ece.utah.edu/ibiosim"><span style="color: #bf1e2e;">iBioSim</span></a>,</li>
 <li>Synthesis is ordered and completed through <a href="https://www.twistbioscience.com/"><span style="color: #51bb79;">Twist Bioscience</span></a>,</li>
